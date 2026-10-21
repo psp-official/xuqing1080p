@@ -23,7 +23,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>xuqingxinnocent — 1080P + HQ Bypass</title>
+    <title>xuqingxinnocent — 1080P</title>
     <style>
         :root {
             --bg: #050505;
@@ -347,7 +347,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
                 </svg>
             </div>
             <p class="upload-title" id="uploadTitle">Select file — click to upload</p>
-            <p class="upload-sub" id="uploadSub">MP4 — 1080P + HQ Bypass (No Downscale)</p>
+            <p class="upload-sub" id="uploadSub">MP4 — 1080P</p>
         </div>
 
         <div class="file-meta" id="fileMeta">
